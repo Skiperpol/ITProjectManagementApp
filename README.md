@@ -1,6 +1,6 @@
 # ITProjectManagementApp
 
-The project, which is a "Web API," was created as a recruitment assignment for the Solvro study circle.
+The project, which is a Web API, was created as a recruitment assignment for the Solvro study circle.
 
 ![alt text](https://github.com/Solvro/rekrutacja.wiosna.2024/blob/main/assets/logo_solvro.png)
 
