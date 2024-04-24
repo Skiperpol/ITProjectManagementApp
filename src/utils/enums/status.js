@@ -5,5 +5,4 @@ const Status = {
 };
 
 const StatusEnum = Object.values(Status);
-
 module.exports = StatusEnum;
