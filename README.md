@@ -2,7 +2,6 @@
 
 The project, which is a Web API, was created as a recruitment assignment for the Solvro study circle.
 
-![Solvro Logo]( =250x)
 <img src="https://github.com/Skiperpol/ITProjectManagementApp/blob/main/logo_solvro.png" width="200">
 ---
 **ITProjectManagemnetApp** is a Web API developed in the Node.js environment using the Express.js framework. It is designed to manage tasks within projects for development teams. The application allows users to create tasks, assign them to specific developers, manage their status and track their execution time.
